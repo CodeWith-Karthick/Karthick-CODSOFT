@@ -95,7 +95,7 @@ CodSoft Internship | Data Science Track
 GitHub: CodeWith-Karthick
 
 ⭐ Acknowledgements
-CodSoft Internship Program
+Internship Program
 
 scikit-learn and pandas documentation
 
